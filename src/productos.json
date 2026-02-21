@@ -1,0 +1,178 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Controlador XM 18 - 110V",
+      "categoria": "termostatos",
+      "precio": 679,
+      "descripcion_corta": "Controlador automático para incubadora, incluye sensor de temperatura y sensor de humedad",
+      "imagen": "xm13.jpg",
+      "especificaciones": {
+        "Control temperatura": "Sí",
+        "Control humedad": "Sí",
+        "Control volteo": "Sí",
+        "Control ventilación": "Sí",
+        "Alarma configurable": "Sí",
+        "Salida para resistencia principal": "110V y 8A",
+        "Incluye 2 sensores": "Sí"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Controlador XM 18 S - 110V",
+      "categoria": "termostatos",
+      "precio": 1299,
+      "descripcion_corta": "Controlador automático para incubadora, incluye sensor de temperatura y sensor de humedad. Versión mejorada de XM 18",
+      "imagen": "xm_s.jpg",
+      "especificaciones": {
+        "Control temperatura": "Sí",
+        "Control humedad": "Sí",
+        "Control volteo": "Sí",
+        "Control ventilación": "Sí",
+        "Alarma configurable": "Sí",
+        "Salida para resistencia principal": "110V y 12A",
+        "Incluye 2 sensores": "Sí",
+        "Contador de días de incubación": "Sí",
+        "Configuración para varias especies de aves": "Sí"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Termostato STC 3028 - 110V",
+      "categoria": "termostatos",
+      "precio": 189,
+      "descripcion_corta": "Control de temperatura y humedad, incluye sensor.",
+      "imagen": "stc3.JPG",
+      "especificaciones": {
+        "Control temperatura": "Sí",
+        "Control humedad": "Sí",
+        "Incluye sensor": "Sí"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Charola de volteo rodillos - 110V",
+      "categoria": "Charolas",
+      "precio": 500,
+      "descripcion_corta": "Charola de rodillos, incluye motor 2.5 rpm a 110V",
+      "imagen": "wmremove-transformed3.jpeg",
+      "especificaciones": {
+        "Ideal para diferentes tamaños de huevo": "Sí",
+        "Velocidad": "2.5 rpm",
+        "Dimensiones": "45 x 46.5 x 6.5 cm"
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Motor de volteo 14W - 110V",
+      "categoria": "Motores de volteo",
+      "precio": 379,
+      "descripcion_corta": "Motor de volteo robusto con carcaza de metal, capacitor eléctrico y giro ajustable",
+      "imagen": "Gemini_Generated_Image_mopa4pmopa4pmopa.png",
+      "especificaciones": {
+        "Motor reductor": "Sí",
+        "Con capacitor eléctrico": "Sí",
+        "Carcaza de acero": "Sí",
+        "Potencia": "14W",
+        "Velocidad": "2.5 rpm",
+        "Capacidad": "+500 huevos"
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Motor síncrono - 110V",
+      "categoria": "Motores de volteo",
+      "precio": 140,
+      "descripcion_corta": "Motor síncrono de 2.5 rpm",
+      "imagen": "8163aa137ed4049faa563fbb96124833-removebg-preview.png",
+      "especificaciones": {
+        "Motor síncrono": "Sí",
+        "Velocidad": "2.5 rpm"
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Charola / Filler",
+      "categoria": "Charolas",
+      "precio": 90,
+      "descripcion_corta": "Charola para incubadora, capacidad 54 huevos",
+      "imagen": "charola54_1.JPG",
+      "especificaciones": {
+        "Para huevo de gallina": "Sí",
+        "Capacidad": "54 huevos",
+        "Dimensiones": "37.5 x 30 x 7.5 cm"
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "Humidificador 110V",
+      "categoria": "Humidificadores",
+      "precio": 249,
+      "descripcion_corta": "Humidificador ultrasónico nebulizador",
+      "imagen": "Gemini_Generated_Image_9okfey9okfey9okf.png",
+      "especificaciones": {
+        "Humidificador nebulizador": "Sí",
+        "Sumergible": "Sí",
+        "Incluye eliminador": "Sí",
+        "Sin agua se detiene automáticamente": "Sí"
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "3 Lámparas para ovoscopia",
+      "categoria": "Ovoscopía",
+      "precio": 149,
+      "descripcion_corta": "Kit de 3 lámparas para ovoscopia de acero inoxidable",
+      "imagen": "lamparaacero16.jpg",
+      "especificaciones": {
+        "Acero inoxidable": "Sí",
+        "Batería": "1 AAA",
+        "Tipo": "Pluma",
+        "Largo": "10.5 cm"
+      }
+    },
+    {
+      "id": 10,
+      "nombre": "Resistencia eléctrica 300W - 110V",
+      "categoria": "Resistencias",
+      "precio": 300,
+      "descripcion_corta": "Resistencia 300W fabricada en aluminio con bases de silicón",
+      "imagen": "Resistencia300.JPG",
+      "especificaciones": {
+        "Resistencia con bases de silicón": "Sí",
+        "Potencia": "300W",
+        "Disipadores de calor": "Sí",
+        "Material": "Aluminio",
+        "Dimensiones": "11.9 x 2.6 x 5.2 cm"
+      }
+    },
+    {
+      "id": 11,
+      "nombre": "3 Resistencia eléctrica - 110V",
+      "categoria": "Resistencias",
+      "precio": 180,
+      "descripcion_corta": "Kit de 3 resistencias eléctricas",
+      "imagen": "ptc1.jpg",
+      "especificaciones": {
+        "Resistencia eléctrica": "Sí",
+        "Potencia": "100W",
+        "Cable": "30 cm",
+        "Material": "Aluminio"
+      }
+    },
+    {
+      "id": 12,
+      "nombre": "Ventilador de trabajo - 110V",
+      "categoria": "Ventiladores",
+      "precio": 229,
+      "descripcion_corta": "Ventilador de alto flujo para incubadora",
+      "imagen": "ventilador3.png",
+      "especificaciones": {
+        "Ventilador alto flujo": "Sí",
+        "Cuerpo": "Acero",
+        "Aspas": "Plásticas",
+        "Dimensiones": "12 x 12 x 3.8 cm"
+      }
+    }
+  ]
+}
