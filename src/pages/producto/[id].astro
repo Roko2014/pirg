@@ -57,7 +57,8 @@ const entries = Object.entries(especificaciones);
 					<span class="text-sm font-semibold text-blue-600 uppercase tracking-wide">{producto.categoria}</span>
 					<h1 class="text-3xl font-bold text-slate-900 mt-2 mb-4">{producto.nombre}</h1>
 					<p class="text-slate-600 text-lg mb-6">{producto.descripcion_corta}</p>
-					<p class="text-4xl font-black text-slate-900 mb-8">${producto.precio}</p>
+					<p class="text-4xl font-black text-slate-900 mb-8">
+						{producto.precio === "Agotado" ? "Agotado" : `$${producto.precio}`}</p>
 
 					<h2 class="text-lg font-bold text-slate-800 mb-4 border-b border-slate-200 pb-2">Especificaciones</h2>
 					<dl class="space-y-3">
