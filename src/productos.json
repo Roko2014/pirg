@@ -4,7 +4,7 @@
       "id": 1,
       "nombre": "Controlador XM 18 - 110V",
       "categoria": "termostatos",
-      "precio": 679,
+      "precio": 690,
       "descripcion_corta": "Controlador automático para incubadora, incluye sensor de temperatura y sensor de humedad",
       "imagen": "xm13.jpg",
       "especificaciones": {
@@ -66,7 +66,7 @@
       "id": 5,
       "nombre": "Motor de volteo 14W - 110V",
       "categoria": "Motores de volteo",
-      "precio": 379,
+      "precio": 399,
       "descripcion_corta": "Motor de volteo robusto con carcaza de metal, capacitor eléctrico y giro ajustable",
       "imagen": "Gemini_Generated_Image_mopa4pmopa4pmopa.png",
       "especificaciones": {
@@ -82,7 +82,7 @@
       "id": 6,
       "nombre": "Motor síncrono - 110V",
       "categoria": "Motores de volteo",
-      "precio": 140,
+      "precio": 150,
       "descripcion_corta": "Motor síncrono de 2.5 rpm",
       "imagen": "8163aa137ed4049faa563fbb96124833-removebg-preview.png",
       "especificaciones": {
@@ -94,7 +94,7 @@
       "id": 7,
       "nombre": "Charola / Filler",
       "categoria": "Charolas",
-      "precio": 90,
+      "precio": "Agotado",
       "descripcion_corta": "Charola para incubadora, capacidad 54 huevos",
       "imagen": "charola54_1.JPG",
       "especificaciones": {
@@ -107,7 +107,7 @@
       "id": 8,
       "nombre": "Humidificador 110V",
       "categoria": "Humidificadores",
-      "precio": 249,
+      "precio": 259,
       "descripcion_corta": "Humidificador ultrasónico nebulizador",
       "imagen": "Gemini_Generated_Image_9okfey9okfey9okf.png",
       "especificaciones": {
@@ -164,7 +164,7 @@
       "id": 12,
       "nombre": "Ventilador de trabajo - 110V",
       "categoria": "Ventiladores",
-      "precio": 229,
+      "precio": 249,
       "descripcion_corta": "Ventilador de alto flujo para incubadora",
       "imagen": "ventilador3.png",
       "especificaciones": {
