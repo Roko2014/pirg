@@ -19,21 +19,21 @@
     },
     {
       "id": 2,
-      "nombre": "Controlador XM 18 S - 110V",
+      "nombre": "Controlador XM 18 D - 110V",
       "categoria": "termostatos",
-      "precio": "Agotado",
+      "precio": "1200",
       "descripcion_corta": "Controlador automático para incubadora, incluye sensor de temperatura y sensor de humedad. Versión mejorada de XM 18",
-      "imagen": "xm_s.jpg",
+      "imagen": "xm18_d.png",
       "especificaciones": {
         "Control temperatura": "Sí",
         "Control humedad": "Sí",
         "Control volteo": "Sí",
         "Control ventilación": "Sí",
         "Alarma configurable": "Sí",
-        "Salida para resistencia principal": "110V y 12A",
+        "Salida para resistencia principal": "110V y 8A",
         "Incluye 2 sensores": "Sí",
-        "Contador de días de incubación": "Sí",
-        "Configuración para varias especies de aves": "Sí"
+        "Switch Encendido/Apagado": "Sí",
+        "Switch iluminación interior y ventilación general": "Sí"
       }
     },
     {
@@ -167,6 +167,20 @@
       "precio": 249,
       "descripcion_corta": "Ventilador de alto flujo para incubadora",
       "imagen": "ventilador3.png",
+      "especificaciones": {
+        "Ventilador alto flujo": "Sí",
+        "Cuerpo": "Acero",
+        "Aspas": "Plásticas",
+        "Dimensiones": "12 x 12 x 3.8 cm"
+      }
+    },
+    {
+      "id": 13,
+      "nombre": "Termómetro Higrómetro HTC-2",
+      "categoria": "Termometro Higrometro",
+      "precio": 152,
+      "descripcion_corta": "Ideal para medición de respaldo de temperatura y humedad en incubadora",
+      "imagen": "htc2_1.jpg",
       "especificaciones": {
         "Ventilador alto flujo": "Sí",
         "Cuerpo": "Acero",
