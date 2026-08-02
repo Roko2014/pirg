@@ -38,15 +38,19 @@
     },
     {
       "id": 3,
-      "nombre": "Termostato STC 3028 - 110V",
+      "nombre": "Termostato XM 18 F con Wi-fi integrado",
       "categoria": "termostatos",
       "precio": 189,
-      "descripcion_corta": "Control de temperatura y humedad, incluye sensor.",
-      "imagen": "stc3.JPG",
+      "descripcion_corta": "Controlador automático para incubadora XM 18 F. Maneje su incubadora con una aplicación desde su teléfono",
+      "imagen": "",
       "especificaciones": {
         "Control temperatura": "Sí",
         "Control humedad": "Sí",
-        "Incluye sensor": "Sí"
+        "Control volteo": "Sí",
+        "Control ventilación": "Sí",
+        "Alarma configurable": "Sí",
+        "Salida para resistencia principal": "110V y 8A",
+        "Incluye 2 sensores": "Sí"
       }
     },
     {
@@ -92,15 +96,15 @@
     },
     {
       "id": 7,
-      "nombre": "Charola / Filler",
-      "categoria": "Charolas",
-      "precio": "Agotado",
-      "descripcion_corta": "Charola para incubadora, capacidad 54 huevos",
-      "imagen": "charola54_1.JPG",
+      "nombre": "Termostato STC 3028 - 110V",
+      "categoria": "termostatos",
+      "precio": 189,
+      "descripcion_corta": "Control de temperatura y humedad, incluye sensor.",
+      "imagen": "stc3.JPG",
       "especificaciones": {
-        "Para huevo de gallina": "Sí",
-        "Capacidad": "54 huevos",
-        "Dimensiones": "37.5 x 30 x 7.5 cm"
+        "Control temperatura": "Sí",
+        "Control humedad": "Sí",
+        "Incluye sensor": "Sí"
       }
     },
     {
@@ -177,14 +181,13 @@
     {
       "id": 13,
       "nombre": "Termómetro Higrómetro HTC-2",
-      "categoria": "Termómetro Higrómetro",
+      "categoria": "termómetro higrómetro",
       "precio": 152,
       "descripcion_corta": "Ideal para medición de respaldo de temperatura y humedad en incubadora",
       "imagen": "htc2_1.JPG",
       "especificaciones": {
-        "Ventilador alto flujo": "Sí",
-        "Cuerpo": "Acero",
-        "Aspas": "Plásticas",
+        "Doble medición de temperatura": "Sí",
+        "Medición de humedad": "Si",
         "Alimentación": "1 pila AAA"
       }
     },
@@ -198,7 +201,7 @@
       "especificaciones": {
         "Voltaje": "110V",
         "Potencia": "300W",
-        "Material": "Metalico",
+        "Material": "Metal",
         "Diámetro de la pieza": "20 cm",
         "Diametro del tubo": "12 mm"
       }
