@@ -177,16 +177,31 @@
     {
       "id": 13,
       "nombre": "Termómetro Higrómetro HTC-2",
-      "categoria": "Termometro Higrometro",
+      "categoria": "Termómetro Higrómetro",
       "precio": 152,
       "descripcion_corta": "Ideal para medición de respaldo de temperatura y humedad en incubadora",
-      "imagen": "htc2_1.jpg",
+      "imagen": "htc2_1.JPG",
       "especificaciones": {
         "Ventilador alto flujo": "Sí",
         "Cuerpo": "Acero",
         "Aspas": "Plásticas",
-        "Dimensiones": "12 x 12 x 3.8 cm"
+        "Alimentación": "1 pila AAA"
       }
-    }
+    },
+    {
+      "id": 14,
+      "nombre": "Resistencia Tubo 300W - 110V",
+      "categoria": "Resistencias",
+      "precio": 165,
+      "descripcion_corta": "Resistencia tipo tubular de 300W a 110V",
+      "imagen": "Resistencia_Tubo_2.png",
+      "especificaciones": {
+        "Voltaje": "110V",
+        "Potencia": "300W",
+        "Material": "Metalico",
+        "Diámetro de la pieza": "20 cm",
+        "Diametro del tubo": "12 mm"
+      }
+    },
   ]
 }
