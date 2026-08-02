@@ -40,10 +40,11 @@
       "id": 3,
       "nombre": "Termostato XM 18 F con Wi-fi integrado",
       "categoria": "termostatos",
-      "precio": 189,
+      "precio": 1799,
       "descripcion_corta": "Controlador automático para incubadora XM 18 F. Maneje su incubadora con una aplicación desde su teléfono",
-      "imagen": "",
+      "imagen": "xm_f.jpg",
       "especificaciones": {
+        "Nombre de la Aplicación": "XM-18SW",
         "Control temperatura": "Sí",
         "Control humedad": "Sí",
         "Control volteo": "Sí",
